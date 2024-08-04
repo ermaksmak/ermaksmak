@@ -9,10 +9,19 @@
 
 ## Stack & skills
 ### Development Tools and Languages:
-Python PyCharm
+![Header](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=3776AB)
+![Header](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=fde910)
+![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 
 ### Testing Frameworks and Libraries:
-Pytest Request Selenium Allure 
+![Header](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=3776AB)
+Pytest
+![Header](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=3776AB)
+Request
+![Header](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=3776AB)
+Selenium
+![Header](https://img.shields.io/badge/Allure-090909?style=for-the-badge&logo=allure&logoColor=#13ad75)
+Allure 
 
 ### Build Tools and Containerization:
 Docker 

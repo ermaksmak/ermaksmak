@@ -9,44 +9,69 @@
 
 ## Stack & skills
 ### Development Tools and Languages:
-![Header](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=3776AB)
-![Header](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=fde910)
+![Header](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=3776AB)
+![Header](https://img.shields.io/badge/PyCharm-090909?style=for-the-badge&logo=pycharm&logoColor=fde910)
 ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 
 ### Testing Frameworks and Libraries:
-![Header](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=3776AB)
-Pytest
-![Header](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=3776AB)
-Request
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-Selenium
-![Header](https://img.shields.io/badge/Allure-090909?style=for-the-badge&logo=Akaunting&logoColor=#13ad75)
-Allure 
+![Header](https://img.shields.io/badge/Pytest-090909?style=for-the-badge&logo=Pytest&logoColor=0A9EDC)
+![Header](https://img.shields.io/badge/Selenium-090909?style=for-the-badge&logo=Selenium&logoColor=13ad75) 
+![Header](https://img.shields.io/badge/Request-090909?style=for-the-badge&logo=threedotjs&logoColor=fde910)
+![Header](https://img.shields.io/badge/Allure-090909?style=for-the-badge&logo=Akaunting&logoColor=13ad75)
 
-### Build Tools and Containerization:
-Docker 
+[//]: # (https://img.shields.io/badge/Appium-090909?style=for-the-badge&logo=appium&logoColor=EE376D)
+[//]: # (https://img.shields.io/badge/Appium-090909?style=for-the-badge&logo=appium&logoColor=EE376D)
+[//]: # (https://img.shields.io/badge/Junit5-090909?style=for-the-badge&logo=junit5&logoColor=25A162)
+[//]: # (https://img.shields.io/badge/jmeter-090909?style=for-the-badge&logo=apachejmeter&logoColor=D22128)
+
+[//]: # (Build Tools and Containerization)
+[//]: # (https://img.shields.io/badge/Maven-090909?style=for-the-badge&logo=ApacheMaven&logoColor=C71A36)
+[//]: # (https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=Docker&logoColor=2496ED)
+[//]: # (https://img.shields.io/badge/Gitlab-090909?style=for-the-badge&logo=Gitlab&logoColor=FC6D26)
+[//]: # (https://img.shields.io/badge/Kubernetes-090909?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+[//]: # (https://img.shields.io/badge/Teamcity-090909?style=for-the-badge&logo=Teamcity&logoColor=6644F8)
+[//]: # (https://img.shields.io/badge/Jenkins-090909?style=for-the-badge&logo=Jenkins&logoColor=F05032)
+
 
 ### Version Control Systems:
-GitHub 
+![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=Github&logoColor=ffffff)
+![Header](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=Git&logoColor=F05032)
 
 ### Databases and Tools:
-PostgreSQL MongoDB GrapfQL
+![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Header](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=#4169E1)
+![Header](https://img.shields.io/badge/MongoDB-090909?style=for-the-badge&logo=mongodb&logoColor=#47A248)
+![Header](https://img.shields.io/badge/Graphql-090909?style=for-the-badge&logo=Graphql&logoColor=E10098)
+![Header](https://img.shields.io/badge/RabbitMQ-090909?style=for-the-badge&logo=RabbitMQ&logoColor=FF6600)
+![Header](https://img.shields.io/badge/ApacheKafka-090909?style=for-the-badge&logo=apachekafka&logoColor=ffffff)
 
 ### API Tools and Documentation:
-Postman Swagger 
+![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=85EA2D)
+![Header](https://img.shields.io/badge/SoapUI-090909?style=for-the-badge&logo=semanticuireact&logoColor=fcdc00)
+
 
 ### Monitoring and Visualization:
-Kibana Sentry
+![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=85EA2D)
+![Header](https://img.shields.io/badge/SoapUI-090909?style=for-the-badge&logo=semanticuireact&logoColor=fcdc00)
 
 ### Project Management and Collaboration:
-Jira Confluence Figma Notion 
-
+![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=Jira&logoColor=0052CC)
+![Header](https://img.shields.io/badge/Confluence-090909?style=for-the-badge&logo=Confluence&logoColor=3B99FC)
+![Header](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=Figma&logoColor=#F24E1E)
+![Header](https://img.shields.io/badge/Notion-090909?style=for-the-badge&logo=Notion&logoColor=#000000)
+![Header](https://img.shields.io/badge/Miro-090909?style=for-the-badge&logo=Miro&logoColor=fcdc00)
+ ![Header](https://img.shields.io/badge/Miro-090909?style=for-the-badge&logo=Miro&logoColor=fcdc00)
 ### Network Analysis Tools:
-CharlseProxy Fidler
+![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charles&logoColor=#F3F5F5)
+![Header](https://img.shields.io/badge/Flat-090909?style=for-the-badge&logo=flat&logoColor=#13ad75)
 
 ### Test Managment System:
-TestRail Qase.io TestIt 
----
+![Header](https://img.shields.io/badge/Qase-090909?style=for-the-badge&logo=qase&logoColor=4F46DC)
+![Header](https://img.shields.io/badge/Testrail-090909?style=for-the-badge&logo=testrail&logoColor=#65C179)
+![Header](https://img.shields.io/badge/Zephyr-090909?style=for-the-badge&logo=openzeppelin&logoColor=#15d1fc)
+![Header](https://img.shields.io/badge/SoapUI-090909?style=for-the-badge&logo=semanticuireact&logoColor=fcdc00)
 
 ## Проекты
 - [Название проекта 1](https://github.com/ваш-профиль/проект1): краткое описание проекта.

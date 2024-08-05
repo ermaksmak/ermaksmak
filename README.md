@@ -52,9 +52,9 @@
 
 
 ### Monitoring and Visualization:
-![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=85EA2D)
-![Header](https://img.shields.io/badge/SoapUI-090909?style=for-the-badge&logo=semanticuireact&logoColor=fcdc00)
+![Header](https://img.shields.io/badge/Kibana-090909?style=for-the-badge&logo=kibana&logoColor=3D7EBB)
+![Header](https://img.shields.io/badge/Grafana-090909?style=for-the-badge&logo=grafanar&logoColor=#F46800)
+![Header](https://img.shields.io/badge/sentry-090909?style=for-the-badge&logo=sentry&logoColor=fcdc00)
 
 ### Project Management and Collaboration:
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=Jira&logoColor=0052CC)
@@ -62,10 +62,10 @@
 ![Header](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=Figma&logoColor=#F24E1E)
 ![Header](https://img.shields.io/badge/Notion-090909?style=for-the-badge&logo=Notion&logoColor=#000000)
 ![Header](https://img.shields.io/badge/Miro-090909?style=for-the-badge&logo=Miro&logoColor=fcdc00)
- ![Header](https://img.shields.io/badge/Youtrack-090909?style=for-the-badge&logo=Miro&logoColor=f73088)
+ ![Header](https://img.shields.io/badge/Youtrack-090909?style=for-the-badge&logo=googletasks&logoColor=f73088)
 ### Network Analysis Tools:
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charles&logoColor=#F3F5F5)
-![Header](https://img.shields.io/badge/Flat-090909?style=for-the-badge&logo=flat&logoColor=#13ad75)
+![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=flat&logoColor=#13ad75)
 
 ### Test Managment System:
 ![Header](https://img.shields.io/badge/Qase-090909?style=for-the-badge&logo=qase&logoColor=4F46DC)

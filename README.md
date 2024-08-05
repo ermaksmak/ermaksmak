@@ -20,7 +20,7 @@ Pytest
 Request
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 Selenium
-![Header](https://img.shields.io/badge/Allure-090909?style=for-the-badge&logo=allure&logoColor=#13ad75)
+![Header](https://img.shields.io/badge/Allure-090909?style=for-the-badge&logo=Akaunting&logoColor=#13ad75)
 Allure 
 
 ### Build Tools and Containerization:

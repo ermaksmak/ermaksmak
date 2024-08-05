@@ -62,7 +62,7 @@
 ![Header](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=Figma&logoColor=#F24E1E)
 ![Header](https://img.shields.io/badge/Notion-090909?style=for-the-badge&logo=Notion&logoColor=#000000)
 ![Header](https://img.shields.io/badge/Miro-090909?style=for-the-badge&logo=Miro&logoColor=fcdc00)
- ![Header](https://img.shields.io/badge/Miro-090909?style=for-the-badge&logo=Miro&logoColor=fcdc00)
+ ![Header](https://img.shields.io/badge/Youtrack-090909?style=for-the-badge&logo=Miro&logoColor=f73088)
 ### Network Analysis Tools:
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charles&logoColor=#F3F5F5)
 ![Header](https://img.shields.io/badge/Flat-090909?style=for-the-badge&logo=flat&logoColor=#13ad75)

@@ -82,13 +82,27 @@
 
 ## Примеры работы Auto
  
-- [Название проекта 1](https://github.com/ваш-профиль/проект1): 
+- [Пример Unit-tests №1](https://github.com/ваш-профиль/проект1)
+- [Пример Unit-tests №2](https://github.com/ваш-профиль/проект1)
+- [Пример API-tests №1](https://github.com/ваш-профиль/проект1)
+- [Пример API-tests №2](https://github.com/ваш-профиль/проект1)
+- [Пример Selenium tests №1](https://github.com/ваш-профиль/проект1)
+- [Пример Selenium-tests №2](https://github.com/ваш-профиль/проект1)
+
+## Рекомендации
+- 1
+- 2
+- 3
+- 4
 
 
 ## Статистика профиля
 ![Ваше Имя GitHub Stats](https://github-readme-stats.vercel.app/api?username=ermaksmak&show_icons=true&theme=radical)
 
 ![Топовые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=ermaksmak&layout=compact&theme=radical)
+
+
+
 
 Актуальное резюме: 
 [HeadHunter](https://saratov.hh.ru/resume/9a1113a9ff038f8b620039ed1f5a6458577169)

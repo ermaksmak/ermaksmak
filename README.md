@@ -11,7 +11,9 @@
 ### Development Tools and Languages:
 ![Header](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=3776AB)
 ![Header](https://img.shields.io/badge/PyCharm-090909?style=for-the-badge&logo=pycharm&logoColor=fde910)
-![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
+[//]: # (https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
+[//]: # (https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=Java&logoColor=3ad07d)
+[//]: # (https://img.shields.io/badge/intellijidea-090909?style=for-the-badge&logo=intellijidea&logoColor=3ad07d)
 
 ### Testing Frameworks and Libraries:
 ![Header](https://img.shields.io/badge/Pytest-090909?style=for-the-badge&logo=Pytest&logoColor=0A9EDC)
@@ -19,7 +21,7 @@
 ![Header](https://img.shields.io/badge/Request-090909?style=for-the-badge&logo=threedotjs&logoColor=fde910)
 ![Header](https://img.shields.io/badge/Allure-090909?style=for-the-badge&logo=Akaunting&logoColor=13ad75)
 
-[//]: # (https://img.shields.io/badge/Appium-090909?style=for-the-badge&logo=appium&logoColor=EE376D)
+[//]: # (https://img.shields.io/badge/restassured-090909?style=for-the-badge&logo=restassured&logoColor=EE376D)
 [//]: # (https://img.shields.io/badge/Appium-090909?style=for-the-badge&logo=appium&logoColor=EE376D)
 [//]: # (https://img.shields.io/badge/Junit5-090909?style=for-the-badge&logo=junit5&logoColor=25A162)
 [//]: # (https://img.shields.io/badge/jmeter-090909?style=for-the-badge&logo=apachejmeter&logoColor=D22128)

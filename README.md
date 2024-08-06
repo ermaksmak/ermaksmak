@@ -45,8 +45,9 @@
 ![Header](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=#4169E1)
 ![Header](https://img.shields.io/badge/MongoDB-090909?style=for-the-badge&logo=mongodb&logoColor=#47A248)
 ![Header](https://img.shields.io/badge/Graphql-090909?style=for-the-badge&logo=Graphql&logoColor=E10098)
-![Header](https://img.shields.io/badge/RabbitMQ-090909?style=for-the-badge&logo=RabbitMQ&logoColor=FF6600)
-![Header](https://img.shields.io/badge/ApacheKafka-090909?style=for-the-badge&logo=apachekafka&logoColor=ffffff)
+
+[//]: # (https://img.shields.io/badge/RabbitMQ-090909?style=for-the-badge&logo=RabbitMQ&logoColor=FF6600)
+[//]: # (https://img.shields.io/badge/ApacheKafka-090909?style=for-the-badge&logo=apachekafka&logoColor=ffffff)
 
 ### API Tools and Documentation:
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=FF6C37)

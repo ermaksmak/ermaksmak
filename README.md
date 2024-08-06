@@ -53,7 +53,7 @@
 
 ### Monitoring and Visualization:
 ![Header](https://img.shields.io/badge/Kibana-090909?style=for-the-badge&logo=kibana&logoColor=3D7EBB)
-![Header](https://img.shields.io/badge/Grafana-090909?style=for-the-badge&logo=grafanar&logoColor=#F46800)
+![Header](https://img.shields.io/badge/Grafana-090909?style=for-the-badge&logo=grafanar&logoColor=F46800)
 ![Header](https://img.shields.io/badge/sentry-090909?style=for-the-badge&logo=sentry&logoColor=fcdc00)
 
 ### Project Management and Collaboration:
@@ -73,10 +73,19 @@
 ![Header](https://img.shields.io/badge/Zephyr-090909?style=for-the-badge&logo=openzeppelin&logoColor=#15d1fc)
 ![Header](https://img.shields.io/badge/SoapUI-090909?style=for-the-badge&logo=semanticuireact&logoColor=fcdc00)
 
-## Проекты
-- [Название проекта 1](https://github.com/ваш-профиль/проект1): краткое описание проекта.
-- [Название проекта 2](https://github.com/ваш-профиль/проект2): краткое описание проекта.
+## Примеры работы Manual
+- [Название проекта 1](https://github.com/ваш-профиль/проект1): Примеры тест-кейсов
+- [Название проекта 2](https://github.com/ваш-профиль/проект2): Примеры чек-листов
+- [Название проекта 3](https://github.com/ваш-профиль/проект3): Примеры баг-репортов и задач
+- [Название проекта 4](https://github.com/ваш-профиль/проект4): Коллекция для Postman
+- [Название проекта 5](https://github.com/ваш-профиль/проект5): Пример работы с Сharlse Proxy
 
+## Примеры работы Auto
+ 
+- [Название проекта 1](https://github.com/ваш-профиль/проект1): 
+
+
+## Статистика профиля
 ![Ваше Имя GitHub Stats](https://github-readme-stats.vercel.app/api?username=ermaksmak&show_icons=true&theme=radical)
 
 ![Топовые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=ermaksmak&layout=compact&theme=radical)

@@ -11,6 +11,7 @@
 ### Development Tools and Languages:
 ![Header](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=3776AB)
 ![Header](https://img.shields.io/badge/PyCharm-090909?style=for-the-badge&logo=pycharm&logoColor=fde910)
+
 [//]: # (https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 [//]: # (https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=Java&logoColor=3ad07d)
 [//]: # (https://img.shields.io/badge/intellijidea-090909?style=for-the-badge&logo=intellijidea&logoColor=3ad07d)

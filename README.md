@@ -97,12 +97,9 @@
 
 
 ## Статистика профиля
-![Ваше Имя GitHub Stats](https://github-readme-stats.vercel.app/api?username=ermaksmak&show_icons=true&theme=radical)
-
-![Топовые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=ermaksmak&layout=compact&theme=radical)
+![Ваше Имя GitHub Stats](https://github-readme-stats.vercel.app/api?username=ermaksmak&show_icons=true&theme=radical)![Топовые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=ermaksmak&layout=compact&theme=radical)
 
 
 
-
-Актуальное резюме: 
+## Актуальное резюме 
 [HeadHunter](https://saratov.hh.ru/resume/9a1113a9ff038f8b620039ed1f5a6458577169)

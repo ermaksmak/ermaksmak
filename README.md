@@ -87,11 +87,11 @@
 ## Примеры работы Auto
  
 - [Пример Unit-tests №1](https://github.com/ваш-профиль/проект1)
-- [Пример Unit-tests №2](https://github.com/ваш-профиль/проект1)
+- [Пример Unit-tests №2](https://github.com/ermaksmak/Diplom_1)
 - [Пример API-tests №1](https://github.com/ваш-профиль/проект1)
-- [Пример API-tests №2](https://github.com/ваш-профиль/проект1)
+- [Пример API-tests №2](https://github.com/ermaksmak/Sprint_7)
 - [Пример Selenium tests №1](https://github.com/ваш-профиль/проект1)
-- [Пример Selenium-tests №2](https://github.com/ваш-профиль/проект1)
+- [Пример Selenium-tests №2](https://github.com/ermaksmak/Diplom_3)
 
 ## Рекомендации
 - 1

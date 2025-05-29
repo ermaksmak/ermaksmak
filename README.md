@@ -106,4 +106,4 @@
 
 
 ## Актуальное резюме 
-[HeadHunter](https://saratov.hh.ru/resume/9a1113a9ff038f8b620039ed1f5a6458577169)
+[HeadHunter](https://saratov.hh.ru/resume/e918f3f4ff0ea884610039ed1f6943594c7937)

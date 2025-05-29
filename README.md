@@ -77,28 +77,28 @@
 ![Header](https://img.shields.io/badge/Zephyr-090909?style=for-the-badge&logo=openzeppelin&logoColor=#15d1fc)
 ![Header](https://img.shields.io/badge/SoapUI-090909?style=for-the-badge&logo=semanticuireact&logoColor=fcdc00)
 
+<!--
 ## Примеры работы Manual
 - [Название проекта 1](https://github.com/ваш-профиль/проект1): Примеры тест-кейсов
 - [Название проекта 2](https://github.com/ваш-профиль/проект2): Примеры чек-листов
 - [Название проекта 3](https://github.com/ваш-профиль/проект3): Примеры баг-репортов и задач
 - [Название проекта 4](https://github.com/ваш-профиль/проект4): Коллекция для Postman
 - [Название проекта 5](https://github.com/ваш-профиль/проект5): Пример работы с Сharlse Proxy
+-->
 
 ## Примеры работы Auto
  
-- [Пример Unit-tests №1](https://github.com/ваш-профиль/проект1) не указан
+- [Пример Unit-tests №1](https://github.com/ermaksmak/Sprint_4)
 - [Пример Unit-tests №2](https://github.com/ermaksmak/Diplom_1)
-- [Пример API-tests №1](https://github.com/ваш-профиль/проект1) не указан
-- [Пример API-tests №2](https://github.com/ermaksmak/Sprint_7)
-- [Пример Selenium tests №1](https://github.com/ваш-профиль/проект1) не указан
+- [Пример API-tests №1](https://github.com/ermaksmak/Sprint_7)
+- [Пример API-tests №2](https://github.com/ermaksmak/Diplom_1)
+- [Пример Selenium tests №1](https://github.com/ermaksmak/Sprint_6)
 - [Пример Selenium-tests №2](https://github.com/ermaksmak/Diplom_3)
 
 ## Рекомендации
-- 1
-- 2
-- 3
-- 4
-
+  1. [Черкесов Всеволод Александрович](https://t.me/Cherkesov_va) - Руководитель тестирования в Experio  
+  2. [Смуров Илья Александрович](https://t.me/ilyasmurov) - TeamLead команды frontend'a в Konsol.pro
+  3. [Бойко Евгений Владимирович](https://t.me/eboyko) - TeamLead команды backend'a в Konsol.pro
 
 ## Статистика профиля
 ![Ваше Имя GitHub Stats](https://github-readme-stats.vercel.app/api?username=ermaksmak&show_icons=true&theme=radical)![Топовые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=ermaksmak&layout=compact&theme=radical)

@@ -100,9 +100,6 @@
   2. [Смуров Илья Александрович](https://t.me/ilyasmurov) - TeamLead команды frontend'a в Konsol.pro
   3. [Бойко Евгений Владимирович](https://t.me/eboyko) - TeamLead команды backend'a в Konsol.pro
 
-## Статистика профиля
-![Ваше Имя GitHub Stats](https://github-readme-stats.vercel.app/api?username=ermaksmak&show_icons=true&theme=radical)![Топовые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=ermaksmak&layout=compact&theme=radical)
-
 
 
 ## Актуальное резюме 
